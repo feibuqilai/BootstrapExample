@@ -1,0 +1,45 @@
+
+body{padding: 70px 0 70px 0;}
+#affixmenu{height: 70px;line-height: 70px;}
+#affixmenu .navbar-brand{font-size: 40px;margin-top: 10px;}
+#mycollapse ul li{font-size: 25px;padding: 10px;}
+.section-header{background: url("../images/section-header.png") center center no-repeat;height: 150px;
+	padding-top: 35px;margin-top: 30px;}
+.section-header h1{text-align: center;}
+.event-list{margin-top:70px;background-color: #eeeeee;}
+.event-list ul{list-style-type: none;margin: 0;padding: 25px 30px 15px 30px;}
+.event-list ul li{list-style-type: none;padding: 10px 0 10px 0 ;border-top: 1px solid #e2e2e2;
+	font-size: 14px;line-height: 30px;}
+.event-list ul li:first-child{border-top: 0;}
+.event-list ul li span{padding-right: 15px;color: #35abd9;}
+#prev_event_btn ,
+#next_event_btn {margin-top: 60px;margin-bottom: 60px;}
+#prev_event_btn a  ,
+#next_event_btn a {background: #eeeeee;width: 60px;height: 60px;padding: 12px;font-size: 28px;display: block;color: #0eb1dc;}
+#prev_event_btn a:hover ,
+#next_event_btn a:hover {background: #e2e2e2;}
+#prev_event_btn a {float: right;}
+#next_event_btn a {float: left;}
+#Pricing{background-color: #3d444e;}
+#Pricing .section-header,#Pricing .pricing-top{color: #fff;}
+#Pricing .pricing-top{text-align: center;}
+#Pricing .pricing-top span{width: 150px;height: 150px;border-radius: 75px;background: #e2e5ea;text-align: center;
+	font-size: 56px;display: block;padding: 48px;color: #35abd9;margin-bottom: 30px;margin-right: auto;margin-left: auto;}
+#Pricing .pricing-box{background-color: #e7eaef;margin-bottom: 60px;padding-bottom: 30px;margin-top: 35px;}
+#Pricing .pricing-box h1{display: block;height:100px;color: #fff;background-color: #35abd9;
+	line-height: 100px;text-align: center;}
+#Pricing .pricing-box ul{list-style-type: none;margin: 0;padding: 0px 30px 25px 70px;}
+#Pricing .pricing-box ul li{list-style-type: none;padding: 25px 0px 0px 0px;}
+#Pricing .pricing-box ul li span{color: #35abd9;margin: 0 10px 0 -30px;}
+#Pricing .pricing-box div{text-align: center;width: 200px;margin: auto;}
+#Pricing .pricing-box div:hover{background: #CCE5F5;}
+#Pricing .pricing-box div p a{display: block;border: 2px solid #35a9d8;font-size: 32px;color: #35a9d8;
+	width: 100%;padding: 12px 0px;text-decoration: none;}
+#Blog {padding-bottom: 60px;overflow: hidden;}
+#Blog .media{margin-bottom: 30px;}
+#Blog .media div p{padding: 18px 0 0 0;font-size: 14px;line-height: 24px;}
+#Contact{background: #f2f2f2;padding-bottom: 30px;}
+#Contact form input[type=text]{height: 50px;}
+#Contact form textarea,#Contact form input{width: 100%;padding: 10px;}
+#Contact form textarea{height: 180px;}
+#Contact form button{width: 100%;}
